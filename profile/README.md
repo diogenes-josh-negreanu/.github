@@ -1,7 +1,7 @@
 # Meet Diogenes
 
 About page: [joshnegreanu.com/about-diogenes](https://joshnegreanu.com/about-diogenes)<br>
-Chatbot: [diogenes.joshnegreanu.com](https://diogenes.joshnegreanu.com)<br>
+Chatbot: [joshnegreanu.com/chat-with-diogenes](https://joshnegreanu.com/chat-with-diogenes)<br>
 Portfolio: [joshnegreanu.com](https://joshnegreanu.com)
 
 ### Personal introduction
@@ -25,4 +25,4 @@ The `diogenes` repository contains code pertaining to the model architecture, tr
 The `diogenes-server` and `diogenes-webapp` repositories contain code pertaining to the chatbot deployment of the model. Diogenes uses the ChatML standard; the server and webapp communicate through a FastAPI connection that allows streaming of individual tokens during generation.
 
 ### Chat with Diogenes
-Diogenes is (during certain periods) available for use as a chatbot via [diogenes.joshnegreanu.com](https://diogenes.joshnegreanu.com). I am currently in the process of training `diogenes-beta`, a newer, more capable, and faster architecture. Please visit the blog at [joshnegreanu.com/about-diogenes](https://joshnegreanu.com/about-diogenes) for more information.
+Diogenes is (during certain periods) available for use as a chatbot via [joshnegreanu.com/chat-with-diogenes](https://joshnegreanu.com/chat-with-diogenes). I am currently in the process of training `diogenes-beta`, a newer, more capable, and faster architecture. Please visit the blog at [joshnegreanu.com/about-diogenes](https://joshnegreanu.com/about-diogenes) for more information.
