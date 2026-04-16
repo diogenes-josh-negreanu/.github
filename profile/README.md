@@ -1,4 +1,4 @@
-# Diogenes
+# Meet Diogenes
 
 About page: [joshnegreanu.com/about-diogenes](https://joshnegreanu.com/about-diogenes)<br>
 Chatbot: [diogenes.joshnegreanu.com](https://diogenes.joshnegreanu.com)<br>
